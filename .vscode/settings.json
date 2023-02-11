@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "citro2d.h": "c",
+        "assert.h": "c",
+        "citro3d.h": "c",
+        "tex3ds.h": "c",
+        "base.h": "c",
+        "sprite.h": "c",
+        "spritesheet.h": "c",
+        "text.h": "c",
+        "font.h": "c",
+        "*.tcc": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
